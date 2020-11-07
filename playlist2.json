@@ -30,7 +30,7 @@
 			"name": "ATV HD TR",
 			"logo": "https://www.digiturk.com.tr/assets/img/dummy/atv_hd.png",
 			"type": "stream",
-			"url": "https://str01.canlitvlive.io:25461/tv/tv/319"
+			"url": "http://str01.canlitvlive.io:25461/tv/tv/319"
 		},
 		{
 			"name": "STAR TV HD TR",
