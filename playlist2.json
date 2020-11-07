@@ -15,7 +15,7 @@
 			"url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4"
 		},
 		{
-			"name": "TRT1 HD",
+			"name": "TRT 1 HD",
 			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85c",
 			"type": "stream",
 			"url": "https://tv-trt1.live.trt.com.tr/master_720.m3u8"
@@ -28,37 +28,37 @@
 		},
 		{
 			"name": "ATV HD TR",
-			"logo": "https://static.wikia.nocookie.net/tvfanon6528/images/1/16/ATV_(2010-.n.v.).png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/atv_hd.png",
 			"type": "stream",
 			"url": "https://str01.canlitvlive.io:25461/tv/tv/319"
 		},
 		{
 			"name": "STAR TV HD TR",
-			"logo": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/star_hd.png",
 			"type": "stream",
 			"url": "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8"
 		},
 		{
 			"name": "STAR TV HD YEDEK",
-			"logo": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/Star_TV_Logo.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/star_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "SHOW TV HD",
-			"logo": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/show_hd.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/showtv/index.m3u8"
 		},
 		{
 			"name": "SHOW TV HD YEDEK",
-			"logo": "https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/show_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "KANAL D HD",
-			"logo": "https://upload.wikimedia.org/wikipedia/tr/c/ca/Kanal_D_logo.svg",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/kanald_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8"
 		},
@@ -70,97 +70,97 @@
 		},
 		{
 			"name": "TV8 HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tv8_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
-			"name": "TV8 BUCUK HD",
+			"name": "TV8 BUÇUK HD",
 			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/589c13d5058d02b288a8cf76",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "TLC HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tlc.png",
 			"type": "stream",
 			"url": "https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8"
 		},
 		{
 			"name": "TLC YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tlc.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/tlc/index.m3u8"
 		},
 		{
-			"name": "D MAX TR",
-			"logo": "https://1.bp.blogspot.com/-B-n2GCkN5y4/Xp9Qt4FwjII/AAAAAAAAMaQ/dMNgolh_p5w3EPRRNgf8rHJk7K4qDCRnwCLcBGAsYHQ/s1600/dmaxlogo.PNG",
+			"name": "DMAX TR",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/ntv_spor_hd.png",
 			"type": "stream",
 			"url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8"
 		},
 		{
 			"name": "KANAL 7 HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/kanal7_hd.png",
 			"type": "stream",
 			"url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
 		},
 		{
-			"name": "KANAL 7 YEDEK",
-			"logo": null,
+			"name": "KANAL 7 HD YEDEK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/kanal7_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8"
 		},
 		{
 			"name": "BEYAZ TV HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/beyaz_tv.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/beyaztv/index.m3u8"
 		},
 		{
 			"name": "BEYAZ TV HD YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/beyaz_tv.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "360 TV HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_360tv_hd.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/360tv/index.m3u8"
 		},
 		{
-			"name": "360 TV YEDEK",
-			"logo": null,
+			"name": "360 TV HD YEDEK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_360tv_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8"
 		},
 		{
 			"name": "A2 TV HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_a2_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "A2 HD YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_a2_hd.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:5566/Entry/a2hd_yeni.m3u8"
 		},
 		{
 			"name": "TEVE 2 HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_teve2_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "SHOWMAX",
-			"logo": null,
+			"logo": "https://upload.wikimedia.org/wikipedia/tr/9/9b/ShowMax_logosu.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8"
 		},
 		{
 			"name": "UCAN KUS TV HD",
-			"logo": null,
+			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2bff0866ac331e0feb21d",
 			"type": "stream",
 			"url": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8"
 		},
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "TV EM",
-			"logo": "https://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png",
+			"logo": "https://upload.wikimedia.org/wikipedia/tr/e/e4/Tv_Em_logosu.png",
 			"type": "stream",
 			"url": "https://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8"
 		},
@@ -195,6 +195,312 @@
 			"url": "https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8"
 		},
 		{
+			"name": "BEIN MOVIES TURK HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/381/Image/kare_turkhd_205x150_.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/81245"
+		},
+		{
+			"name": "BEIN MOVIES PREMIERE HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/271/Image/movies_premierhd_205x150_.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18002"
+		},
+		{
+			"name": "BEIN MOVIES PREMIERE 2 HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/moviemax-premier2-hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17993"
+		},
+		{
+			"name": "BEIN MOVIES FAMILY HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/335/Image/movies_familyhd_205x150_.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80770"
+		},
+		{
+			"name": "BEIN MOVIES STARS HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/272/Image/kare_starshd_205x150__.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18001"
+		},
+		{
+			"name": "BEIN MOVIES ACTION HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/453/Image/movies_actionhd_205x150_.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18006"
+		},
+		{
+			"name": "BEIN MOVIES ACTION 2 HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/moviemax-action-hd2.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17995"
+		},
+		{
+			"name": "BEIN SERIES COMEDY HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/dizimax-comedy-hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/18000"
+		},
+		{
+			"name": "BEIN SERIES SCI-FI HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/diizmax-scifi-hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17998"
+		},
+		{
+			"name": "BEIN SERIES VICE HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/dizimax-vice-hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17997"
+		},
+		{
+			"name": "BEIN BOX OFFICE 1 HD",
+			"logo": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/07/BoxOffice_HD1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148369"
+		},
+		{
+			"name": "BEIN BOX OFFICE 2 HD",
+			"logo": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/07/BoxOffice_HD2.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148368"
+		},
+		{
+			"name": "BEIN BOX OFFICE 3 HD",
+			"logo": "https://i.hizliresim.com/iR3Qh1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148367"
+		},
+		{
+			"name": "BEIN SPORTS 1 FHD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-205x150.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17887"
+		},
+		{
+			"name": "BEIN SPORTS 1 HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-205x150.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17886"
+		},
+		{
+			"name": "BEIN SPORTS 2 HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-205x150.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17878"
+		},
+		{
+			"name": "BEIN SPORTS 3 HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-205x150.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17873"
+		},
+		{
+			"name": "BEIN SPORTS 4 HD",
+			"logo": "http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-205x150.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17869"
+		},
+		{
+			"name": "BEIN SPORTS MAX 1 HD",
+			"logo": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/MAX_HD1-1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17866"
+		},
+		{
+			"name": "BEIN SPORTS MAX 2 HD",
+			"logo": "https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/MAX_HD2-1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17865"
+		},
+		{
+			"name": "BEIN SPORTS HABER HD",
+			"logo": "https://i.pinimg.com/originals/69/7f/68/697f680a5df7643882f7452dbea341a6.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17891"
+		},
+		{
+			"name": "S SPORT HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/sports_logo_haz2017.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17854"
+		},
+		{
+			"name": "EUROSPORT 1 HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/eurosport1_hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17860"
+		},
+		{
+			"name": "EUROSPORT 2 HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/eurosport2.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17859"
+		},
+		{
+			"name": "BEIN IZ HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/izhd1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17939"
+		},
+		{
+			"name": "MOVIESMART ACTION HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97280cfef0b75f4723e30",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17983"
+		},
+		{
+			"name": "MOVIESMART CLASSIC HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97297cfef0b75f4723f91",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138866"
+		},
+		{
+			"name": "MOVIESMART GOLD HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97278cfef0b75f4723df9",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17977"
+		},
+		{
+			"name": "MOVIESMART FEST HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97287cfef0b75f4723ec3",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17976"
+		},
+		{
+			"name": "MOVIESMART PLATIN HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97268cfef0b75f4723df3",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17981"
+		},
+		{
+			"name": "MOVIESMART PLATIN 2 HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97270cfef0b75f4723df6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17980"
+		},
+		{
+			"name": "MOVIESMART PREMIUM HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f97253cfef0b75f4723ded",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17979"
+		},
+		{
+			"name": "MOVIESMART PREMIUM 2 HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f9725ccfef0b75f4723df0",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138864"
+		},
+		{
+			"name": "MOVIESMART TURK HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f972a1cfef0b75f4723f94",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17957"
+		},
+		{
+			"name": "SINEMA TV HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=168",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80754"
+		},
+		{
+			"name": "SINEMA TV YERLI HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80769"
+		},
+		{
+			"name": "SINEMA TV AILE HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=170",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80767"
+		},
+		{
+			"name": "SINEMA TV AKSIYON HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80766"
+		},
+		{
+			"name": "SINEMA TV KOMEDI HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=172",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80765"
+		},
+		{
+			"name": "SINEMA TV KOMEDI 2 HD",
+			"logo": "https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=578",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138831"
+		},
+		{
+			"name": "DIZI SMART PREMIUM HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f972a9cfef0b75f4723f97",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80762"
+		},
+		{
+			"name": "FX HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/5d9dc96ccfef0b5db33df65a",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138832"
+		},
+		{
+			"name": "FOX LIFE HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/5c3c933dcfef0b43f3ff3ae5",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138833"
+		},
+		{
+			"name": "FOX CRIME HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/5d9dc98ecfef0b5db33df65d",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/80761"
+		},
+		{
+			"name": "FILMBOX ACTION",
+			"logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxaction-logo.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138909"
+		},
+		{
+			"name": "FILMBOX FAMILY",
+			"logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmbox-famly-logo.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138912"
+		},
+		{
+			"name": "FILMBOX COMEDY",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138910"
+		},
+		{
+			"name": "FILMBOX DRAMA",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138911"
+		},
+		{
+			"name": "FILMBOX HORROR",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/144350"
+		},
+		{
+			"name": "FILMBOX YERLI",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138903"
+		},
+		{
+			"name": "FILMBOX YESILÇAM",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da7e6",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138904"
+		},
+		{
 			"name": "ViZYON TV HD",
 			"logo": "https://1.bp.blogspot.com/-wJI5YuqTlTE/Xp9Ul2yhpaI/AAAAAAAAMao/P1L31ew0J2EZAji7wNF2MIbs8vL-SBf_ACLcBGAsYHQ/s1600/vizyontv.png",
 			"type": "stream",
@@ -207,7 +513,7 @@
 			"url": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8"
 		},
 		{
-			"name": "AKTiF TV HDEU",
+			"name": "AKTiF TV HD",
 			"logo": "https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmp_I6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png",
 			"type": "stream",
 			"url": "https://cdn.yayin.com.tr/aktiftv/aktiftv/playlist.m3u8"
@@ -220,7 +526,7 @@
 		},
 		{
 			"name": "ELiT TV HD",
-			"logo": "https://www.elittv.ch/images/elityenilogokucuk2opy.png",
+			"logo": "https://yt3.ggpht.com/a/AATXAJxkqpIYW8Z1YuNE157PSHiYdMA6wqmJNXRtbJD5=s900-c-k-c0x00ffffff-no-rj",
 			"type": "stream",
 			"url": "https://source2.primetime.ch:2981/play/elittv/index.m3u8"
 		},
@@ -235,6 +541,12 @@
 			"logo": "https://1.bp.blogspot.com/-_G4QNxQOOqU/XzPAmjG0G2I/AAAAAAAAOSY/mQfSMOMGmGMACJsxJXfzk0fQ1Ep8SR3SACLcBGAsYHQ/s0/T%25C4%25B0MURMEDYA.PNG",
 			"type": "stream",
 			"url": "https://performance.switchboard.live/9zddz-882xe-x8mf7-00000-25774/--origin-01_8c9a5d9f53b9c7c08e6315ffe49f3112/playlist.m3u8"
+		},
+		{
+			"name": "KEMAL SUNAL HD",
+			"logo": "https://w7.pngwing.com/pngs/650/965/png-transparent-wall-poster-gittigidiyor-clock-kemal-sunal-text-computer-poster.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/148365"
 		},
 		{
 			"name": "ViP TV KEMAL SUNAL",
@@ -298,7 +610,7 @@
 		},
 		{
 			"name": "ATV AVRUPA",
-			"logo": null,
+			"logo": "https://fiber.salt.ch/sites/default/files/tvchannels/atv-avrupa-reklam%25402x.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8"
 		},
@@ -310,7 +622,7 @@
 		},
 		{
 			"name": "EURO STAR",
-			"logo": "https://www.eurostartv.com.tr/Content/img/logo.png",
+			"logo": "https://upload.wikimedia.org/wikipedia/tr/3/37/Euro_Star_logosu.png",
 			"type": "stream",
 			"url": "https://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8"
 		},
@@ -334,13 +646,13 @@
 		},
 		{
 			"name": "TGRT BELGESEL",
-			"logo": "https://1.bp.blogspot.com/-KCD373D68Hk/X4jB5mDcnII/AAAAAAAAPVk/iGLPNP331n8gzujxDdxD-CUUbCju4xkYQCLcBGAsYHQ/s320/tgrtbelgsel.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tgrt_belgesel.png",
 			"type": "stream",
 			"url": "https://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8"
 		},
 		{
 			"name": "TGRT BELGESEL YEDEK",
-			"logo": "https://1.bp.blogspot.com/-KCD373D68Hk/X4jB5mDcnII/AAAAAAAAPVk/iGLPNP331n8gzujxDdxD-CUUbCju4xkYQCLcBGAsYHQ/s320/tgrtbelgsel.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tgrt_belgesel.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/tgrtbelgesel/index.m3u8"
 		},
@@ -375,68 +687,116 @@
 			"url": "https://waw2.artiyerelmedya.net/avtv/bant1/playlist.m3u8"
 		},
 		{
-			"name": "TRT BELGESEL",
-			"logo": null,
+			"name": "NAT GEO HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/nat_geo_channel.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17952"
+		},
+		{
+			"name": "BBC EARTH HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/bbc_Earth_for_urun.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17943"
+		},
+		{
+			"name": "NAT GEO WILD HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/nat_geo_wild_hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17951"
+		},
+		{
+			"name": "HISTORY HD",
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/history_hd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17940"
+		},
+		{
+			"name": "DISCOVERY CHANNEL HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e2",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17949"
+		},
+		{
+			"name": "DISCOVERY SCIENCE HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/discoveryscience1.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17946"
+		},
+		{
+			"name": "DISCOVERY IDX HD",
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/id_hd_logo.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138841"
+		},
+		{
+			"name": "ANIMAL PLANET HD",
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17953"
+		},
+		{
+			"name": "TRT BELGESEL HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_belgesel_hd_haz2017.png",
 			"type": "stream",
 			"url": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT HABER HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_haber.png",
 			"type": "stream",
 			"url": "https://tv-trthaber.live.trt.com.tr/master_720.m3u8"
 		},
 		{
 			"name": "TRT HABER HD YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_haber.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "TRT 2 HD",
-			"logo": "https://www.trt2.com.tr/images/logo.svg",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_okul.png",
 			"type": "stream",
 			"url": "https://tv-trt2-ts.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT 3 SPOR",
-			"logo": "https://upload.wikimedia.org/wikipedia/tr/6/61/TRT_3_logosu_%282011-2014%29.png",
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/trt3spor.png",
 			"type": "stream",
 			"url": "https://tv-trt3.live.trt.com.tr/master_720.m3u8"
 		},
 		{
 			"name": "TRT MUZiK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_muzik.png",
 			"type": "stream",
 			"url": "https://tv-trtmuzik.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT AVAZ",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_avaz.png",
 			"type": "stream",
 			"url": "https://tv-trtavaz.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT TURK",
-			"logo": null,
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png",
 			"type": "stream",
 			"url": "https://tv-trtturk.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT KURDi",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_kurdi.png",
 			"type": "stream",
 			"url": "https://tv-trtkurdi.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT ARABi",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_arap.png",
 			"type": "stream",
 			"url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
 		},
 		{
 			"name": "TRT WORLD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_world.png",
 			"type": "stream",
 			"url": "https://tv-trtworld.live.trt.com.tr/master_1080.m3u8"
 		},
@@ -465,32 +825,86 @@
 			"url": "https://tv-e-okul02.live.trt.com.tr/master_720.m3u8"
 		},
 		{
-			"name": "TRT COCUK",
-			"logo": null,
+			"name": "TRT ÇOCUK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_cocuk.png",
 			"type": "stream",
 			"url": "https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8"
 		},
 		{
+			"name": "BABY TV",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/baby_tv_kanal.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17907"
+		},
+		{
+			"name": "DISNEY JUNIOR",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/disney_jr.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17911"
+		},
+		{
+			"name": "DISNEY CHANNEL",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/disneychannel.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17910"
+		},
+		{
+			"name": "MINIKA ÇOCUK",
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/minika_cocuk.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17914"
+		},
+		{
+			"name": "MINIKA GO",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/minika_go.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138856"
+		},
+		{
+			"name": "SMART ÇOCUK HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f972f5cfef0b75f4723f9d",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/104763"
+		},
+		{
+			"name": "NICK JR HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/nickjr.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17916"
+		},
+		{
+			"name": "NICKELODEON HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/nickelodeonhd.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17915"
+		},
+		{
+			"name": "BOOMERANG",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/boomerang_logo_for_urun.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/138859"
+		},
+		{
 			"name": "NTV HD TR",
-			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8c2",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_ntv_hd.png",
 			"type": "stream",
 			"url": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"
 		},
 		{
 			"name": "HABER TURK HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_haber_turk_hd.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/haberturk/index.m3u8"
 		},
 		{
 			"name": "BLOOMBERG HT HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/bloomberg_ht.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "BLOOMBERG HT YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/bloomberg_ht.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/bloomberght/index.m3u8"
 		},
@@ -514,13 +928,13 @@
 		},
 		{
 			"name": "HALK TV HD",
-			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/halk_tv.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "HALK TV YEDEK",
-			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/halk_tv.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:8080/Entry/halktv_yeni/index.m3u8"
 		},
@@ -580,55 +994,55 @@
 		},
 		{
 			"name": "AKiT TV",
-			"logo": "https://www.akittv.com.tr/uploads/2018/03/akit-tv-logo-2016-1.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/akittv.png",
 			"type": "stream",
 			"url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
 		},
 		{
 			"name": "24 TV",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_kanal24_hd.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/24tv/index.m3u8"
 		},
 		{
 			"name": "BENGU TURK",
-			"logo": null,
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/benguturk_logo.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/benguturk/index.m3u8"
 		},
 		{
 			"name": "CNN TURK HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/2018_cnn_turk_hd.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "TVNET",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tvnet.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/tvnet/index.m3u8"
 		},
 		{
 			"name": "TGRT HABER HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tgrt_haber.png",
 			"type": "stream",
 			"url": "https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8"
 		},
 		{
 			"name": "TGRT HABER YEDEK",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tgrt_haber.png",
 			"type": "stream",
 			"url": "https://canli.ensonhaber.com/tr/tgrthaber/index.m3u8"
 		},
 		{
 			"name": "ULUSAL KANAL",
-			"logo": null,
+			"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ulusal_Kanal_logo.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8"
 		},
 		{
 			"name": "ULKE TV",
-			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5afec289fbead3711c39d395",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/ulketv.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8"
 		},
@@ -640,43 +1054,43 @@
 		},
 		{
 			"name": "TV 100 EKONOMi",
-			"logo": null,
+			"logo": "https://1.bp.blogspot.com/-dkrtHOLsfPc/X3-rcxnvpmI/AAAAAAAAPOs/baioLwH4MyAVaEr4gBblZL_T-NxswKdoACLcBGAsYHQ/s121/TV100.png",
 			"type": "stream",
 			"url": "https://www.youtube.com/watch?v=34dSO1SKRiw"
 		},
 		{
 			"name": "A HABER",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/ahaber_hd.png",
 			"type": "stream",
 			"url": "https://www.youtube.com/watch?v=AbX7HxqMy6o"
 		},
 		{
 			"name": "A PARA",
-			"logo": "https://www.dsmart.com.tr/epg/images/0x60/5c6e669dcfef0b613d9fed23",
+			"logo": "https://isbh.tmgrup.com.tr/sbh/site/v3/apara/i/logo-apara-new.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8"
 		},
 		{
 			"name": "A SPOR HD",
-			"logo": null,
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/aspor_haz2017_logo.png",
 			"type": "stream",
 			"url": "https://185.129.1.242:80/asporhd/mpegts"
 		},
 		{
-			"name": "A SPOR YEDEK",
-			"logo": "https://resmim.net/f/evgiQl.png",
+			"name": "A SPOR HD YEDEK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/aspor_haz2017_logo.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8"
 		},
 		{
 			"name": "TRT SPOR HD",
-			"logo": "https://1.bp.blogspot.com/-YyzG57Vt_xo/XsZOOWlmsPI/AAAAAAAANc0/FOtjkTG1IbMO4Dbr8xThx_Jm3OTQJGP9gCLcBGAsYHQ/s200/trtspor.png",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt3_spor.png",
 			"type": "stream",
 			"url": "https://tv-trtspor1.live.trt.com.tr/master.m3u8"
 		},
 		{
-			"name": "TRT SPOR YEDEK",
-			"logo": null,
+			"name": "TRT SPOR HD YEDEK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt3_spor.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_sd.smil/playlist.m3u8"
 		},
@@ -687,32 +1101,56 @@
 			"url": "https://tv-trtspor2.live.trt.com.tr/master.m3u8"
 		},
 		{
-			"name": "TiViBU SPOR",
-			"logo": "https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG",
+			"name": "TIVIBU SPOR 1 HD",
+			"logo": "https://epmajuiy.rocketcdn.com/tivibuspor/img/channel_cover/18-04/18/channel-cover-1-1521199472.png",
 			"type": "stream",
-			"url": "https://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/manifest(format=m3u8-aapl).m3u8"
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17864"
+		},
+		{
+			"name": "TIVIBU SPOR 2 HD",
+			"logo": "https://epmajuiy.rocketcdn.com/tivibuspor/img/content/18-04/18/channel-cover-2-1521200277.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17863"
+		},
+		{
+			"name": "TIVIBU SPOR 3 HD",
+			"logo": "https://epmajuiy.rocketcdn.com/tivibuspor/img/content/18-04/18/channel-cover-3-1521200307.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17862"
+		},
+		{
+			"name": "SPOR SMART HD",
+			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f97325cfef0b75f4723fa0",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17855"
 		},
 		{
 			"name": "SPORTS TV HD",
-			"logo": null,
+			"logo": "https://lh3.googleusercontent.com/proxy/WIyDR9tzg_0ETBGbxio0Du7GY1S6tU4rFgxZj0gTpYaFnF3isJmwZA-zzIh97ZoQgTL-kjDE-KR9ud99QWcQSn2v7pmx4IEIQDHOCvPdhg",
 			"type": "stream",
 			"url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
 		},
 		{
 			"name": "GS TV",
-			"logo": "https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/gs_tv.png",
 			"type": "stream",
 			"url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8"
 		},
 		{
+			"name": "FB TV",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/fb_tv.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17845"
+		},
+		{
 			"name": "TJK TV",
-			"logo": "https://www.digiturkburada.com/kanal/kanal-buyuk/tjk-tv-buyuk.png",
+			"logo": "https://w7.pngwing.com/pngs/573/693/png-transparent-jockey-club-of-turkey-logo-encapsulated-postscript-tjk-tv-business-cdr-text-rectangle-thumbnail.png",
 			"type": "stream",
 			"url": "https://tjktv.ercdn.net/tjktv.m3u8"
 		},
 		{
 			"name": "TAY TV",
-			"logo": "https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da818",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/tay_tv_turksat.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8"
 		},
@@ -729,7 +1167,7 @@
 			"url": "https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8"
 		},
 		{
-			"name": "KRAL TVHD",
+			"name": "KRAL TV HD",
 			"logo": "https://upload.wikimedia.org/wikipedia/tr/thumb/5/55/Kral_TV_logosu.png/200px-Kral_TV_logosu.png",
 			"type": "stream",
 			"url": "https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8"
@@ -790,13 +1228,13 @@
 		},
 		{
 			"name": "FiNEST TV",
-			"logo": null,
+			"logo": "https://lh3.googleusercontent.com/proxy/GkPwbdLewLIL8cXb5WpIvjHJZmDAI_usfE5NxzbpW7OHcERYW8vJtnsZ-Gx1NjpYM4S8_Nh39MYrK781JONoxUYyYfKYEIVxVQuegGWAv3llomf0W8NfAxw",
 			"type": "stream",
 			"url": "https://media.finest.tv/hls/live.m3u8"
 		},
 		{
 			"name": "MAVi KARADENiZ TV",
-			"logo": "https://yerelmedya.tv/logosTV/mavikaradeniz.png",
+			"logo": "https://www.canlitvizlemeli.com/uploads/kanal/27932mavi-karadeniz-canli.png",
 			"type": "stream",
 			"url": "https://yerelmedya.tv:1935/mavikaradeniz/bant1/chunklist.m3u8"
 		},
@@ -826,7 +1264,7 @@
 		},
 		{
 			"name": "AKILLI TV",
-			"logo": null,
+			"logo": "https://i.pinimg.com/originals/83/db/11/83db111959abae04e62bbeddc9728508.png",
 			"type": "stream",
 			"url": "https://iptvmasterlink.dyndns.org:5566/Entry/akillitv_yeni.m3u8"
 		},
@@ -850,7 +1288,7 @@
 		},
 		{
 			"name": "MESAJ TV",
-			"logo": "https://yerelmedya.tv/logosTV/mesajtv.png",
+			"logo": "https://upload.wikimedia.org/wikipedia/tr/c/c8/Mesaj_TV_logosu.jpg",
 			"type": "stream",
 			"url": "https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8"
 		},
@@ -892,7 +1330,7 @@
 		},
 		{
 			"name": "DiYANET TV",
-			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c2cd866ac30cbc2ad83e",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/trt_diyanet.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/playlist.m3u8"
 		},
@@ -904,7 +1342,7 @@
 		},
 		{
 			"name": "ON 4 TV",
-			"logo": "https://www.on4.com.tr/images/ON4LOGO.png",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUCjdRtJgh8b-Xg2D2mn7lO-1TcxhWnFnBHQ&usqp=CAU",
 			"type": "stream",
 			"url": "https://yayin.netradyom.com:1935/live/on4/playist.m3u8"
 		},
@@ -922,7 +1360,7 @@
 		},
 		{
 			"name": "KON TV YEDEK",
-			"logo": "https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c62b751866ac30cbc2ad618",
+			"logo": "https://seeklogo.com/images/K/kontv-logo-26656D89C2-seeklogo.com.png",
 			"type": "stream",
 			"url": "https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/playlist.m3u8"
 		},
@@ -934,7 +1372,7 @@
 		},
 		{
 			"name": "KUDUS TV",
-			"logo": null,
+			"logo": "https://www.kudustv.com/images/logo/logo.png",
 			"type": "stream",
 			"url": "https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8"
 		},
@@ -952,7 +1390,7 @@
 		},
 		{
 			"name": "SEMERKAND TV",
-			"logo": null,
+			"logo": "https://www.tivibu.com.tr/assets/img/kanallar/semerkand_hd.png",
 			"type": "stream",
 			"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
 		},
@@ -964,13 +1402,13 @@
 		},
 		{
 			"name": "SAT 7 TURK",
-			"logo": "https://yerelmedya.tv/logosTV/sat7turk.png",
+			"logo": "https://www.sat7turk.com/wp-content/uploads/2016/11/sat7logo-mid.png",
 			"type": "stream",
 			"url": "https://waw2.artiyerelmedya.net/sat7turk/bant1/playlist.m3u8"
 		},
 		{
-			"name": "CiFTCi TV",
-			"logo": "https://yerelmedya.tv/logosTV/ciftcitv.png",
+			"logo": "https://lh3.googleusercontent.com/proxy/ALgXbhmv1PTBMT0GJ1RKSdBHZHf9R86tPm9_Iy1HZwEXTouFXAMKWyApsMx6liM00hfs-hI2qcFqv6UKHTBs7YqxVDYACwYlUzaHpEMvhCs",
+			"name": "ÇiFTÇi TV",
 			"type": "stream",
 			"url": "https://waw2.artiyerelmedya.net/ciftcitv/bant1/playlist.m3u8"
 		},
@@ -1240,7 +1678,7 @@
 		},
 		{
 			"name": "ETV MANiSA",
-			"logo": "https://1.bp.blogspot.com/-qnvsSfKZkaE/XosbQ_wpk5I/AAAAAAAALZ8/sw51BWqvh7IOBqRYfareRdwGp6lrY2snACLcBGAsYHQ/s200/ETV.PNG",
+			"logo": "https://static.wixstatic.com/media/ba9eb5_d5c8a5370b5f45708d3cba89cfd94ea7~mv2.png/v1/crop/x_0,y_118,w_2550,h_828/fill/w_560,h_184,al_c,q_85,usm_0.66_1.00_0.01/ba9eb5_d5c8a5370b5f45708d3cba89cfd94ea7~mv2.webp",
 			"type": "stream",
 			"url": "https://broadcasttr.com:1935/manisaetv/bant1/chunklist.m3u8"
 		},
@@ -1389,7 +1827,7 @@
 			"url": "https://waw1.artiyerelmedya.net:1935/olayturk/bant1/chunks.m3u8"
 		},
 		{
-			"name": "OGUN TV iCerenkOy-iST.",
+			"name": "OGUN TV",
 			"logo": "https://1.bp.blogspot.com/-x2R-IjS1vuI/X32Npne5mBI/AAAAAAAAPLE/7iGyqQrOpSMR_qVH35znwFTdxpesrdgbACLcBGAsYHQ/s0/og%25C3%25BCntv.png",
 			"type": "stream",
 			"url": "https://s01.vpis.io/ogun/ogun.m3u8"
