@@ -1,0 +1,36 @@
+{
+	"version": "1.0",
+	"type": "hls",
+	"videos": [
+		{
+			"name": "S SPORT HD",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/sports_logo_haz2017.png",
+			"type": "stream",
+			"url": "https://x.buulkedehardkapitalizmvar.tk/kaynakstreamradarco/3450/naxi/caxi.m3u8"
+		},
+		{
+			"name": "S SPORT HD YEDEK",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/sports_logo_haz2017.png",
+			"type": "stream",
+			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17854"
+		},
+		{
+			"name": "S SPORT 2 HD",
+			"logo": "https://i.ibb.co/HhSHp7Q/S-Sport-2-logo.png",
+			"type": "stream",
+			"url": "https://x.buulkedehardkapitalizmvar.tk/kaynakstreamradarco/3451/naxi/caxi.m3u8"
+		},
+		{
+			"name": "S SPORT + HD",
+			"logo": "https://promocodius.com/tr/assets/tr/images/logos/S-Sport-logo.jpg",
+			"type": "stream",
+			"url": "https://x.buulkedehardkapitalizmvar.tk/kaynakstreamradarco/6/strmrdr.m3u8"
+		},
+		{
+			"name": "SKY SPORTS F1",
+			"logo": "https://e3.365dm.com/tvlogos/channels/1306-Logo.png",
+			"type": "stream",
+			"url": "https://x.buulkedehardkapitalizmvar.tk/kaynakstreamradarco/105/naxi/caxi.m3u8"
+		}
+	]
+}
