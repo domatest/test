@@ -12,6 +12,12 @@
 			"name": "S SPORT HD YEDEK",
 			"logo": "https://www.digiturk.com.tr/assets/img/dummy/sports_logo_haz2017.png",
 			"type": "stream",
+			"url": "https://video.xx.fbcdn.net/hvideo-ftw-frc/_nc_ohc-TiktqGn4PNQAX-rao7r/_nc_cat-110/v/rs-zpKz_deg-e8qLM_0ga/live-dash/dash-abr-ibr-audio/150552770136192.mpd?_nc_rl=AfCP1QaRwAM35oPF&ms=m_CN&oh=1f2aadedb8b8bac8deb7d9710ba95b65&oe=5FB2AE36&_nc_nc=1x"
+		},
+		{
+			"name": "S SPORT HD YEDEK 2",
+			"logo": "https://www.digiturk.com.tr/assets/img/dummy/sports_logo_haz2017.png",
+			"type": "stream",
 			"url": "http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/17854"
 		},
 		{
