@@ -1629,8 +1629,6 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV NOVE ZAMKY
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Turzovka
-rtmp://s1.media-planet.sk:80/live/turzovka
 #EXTINF:0 type="stream" channelId="-1", TV KOPER
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV MARIBOR
