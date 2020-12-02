@@ -1948,7 +1948,7 @@
 			"url": "https://59cba4d34b678.streamlock.net/canlitv/kanal57/playlist.m3u8"
 		},
 		{
-			"name": "KANAL 58 HD",
+			"name": "KANAL 58",
 			"logo": "https://1.bp.blogspot.com/-HpYX80ykuRY/X6W4h_aWPcI/AAAAAAAAPnQ/sakqISaQo-ELJxit175TzqZOurlQVyenACLcBGAsYHQ/s0/KANAL58.png",
 			"type": "stream",
 			"url": "https://broadcasttr.com:446/kanal58/bant1/chunklist.m3u8"
@@ -2057,7 +2057,7 @@
 		},
 		{
 			"name": "BLT TURK",
-			"logo": "https://1.bp.blogspot.com/-z54sZ7hrRlY/X6rrj_mlTpI/AAAAAAAAPrA/pUUZVZvke9s2ZRMFpGMC_OCGAFzTiJj2ACLcBGAsYHQ/s0/BLTTURK.jpg",
+			"logo": "https://i.ibb.co/g9t8MK6/bltturk.png",
 			"type": "stream",
 			"url": "http://waw2.artiyerelmedya.net/bltturk/bant1/playlist.m3u8"
 		},
@@ -2068,7 +2068,7 @@
 			"url": "http://stream.taksimbilisim.com:1935/btv/bant1/chunklist_w2135581841.m3u8"
 		},
 		{
-			"name": "BOĞAZ TV CANAKKALE",
+			"name": "BOGAZ TV CANAKKALE",
 			"logo": "https://1.bp.blogspot.com/-okHaGEP5AxY/X2kPJ_1kfeI/AAAAAAAAO2g/P_AnKIRjQhsyC4LJfcDK2TBRKDthhBQwwCLcBGAsYHQ/s0/bogaz%2Btv.png",
 			"type": "stream",
 			"url": "http://medyacanli.net:1935/akinci/akinci/iptvdelisi.m3u8"
@@ -2078,12 +2078,6 @@
 			"logo": "https://1.bp.blogspot.com/-CFXjbHIF9qA/XwjqwOkWGvI/AAAAAAAAN3s/Y3MFwL5gI0YfDfIQ-qzBeU6rwgfYfGAEwCLcBGAsYHQ/s200/BuyukAlanya-Logo.jpg",
 			"type": "stream",
 			"url": "https://canliyayin.buyukalanya.com/hls/byk/buyukalanya.m3u8"
-		},
-		{
-			"name": "BRUKSEL TURK TV",
-			"logo": "https://1.bp.blogspot.com/-sYChyuVHnaY/Xp7gPLZqiKI/AAAAAAAAMZM/kj45kk1MmZIac4EtHFpt0fFuL12U-KYkgCLcBGAsYHQ/s200/BRUKSELTURK.jpg",
-			"type": "stream",
-			"url": "http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8"
 		},
 		{
 			"name": "BRiC-SATRANC TV",
@@ -2264,12 +2258,6 @@
 			"logo": "https://1.bp.blogspot.com/-APfqQg5d__g/Xn0u_tpUtFI/AAAAAAAAK_c/7SxDIcU3mwwHsKUFlmwh1mHjK_7AruVogCLcBGAsYHQ/s1600/KOROGLYV.jpg",
 			"type": "stream",
 			"url": "http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8"
-		},
-		{
-			"name": "LiNE TV",
-			"logo": "https://1.bp.blogspot.com/-9TiXzZjVD3s/XtFz-PKsLcI/AAAAAAAANj4/nbGF0ppllFo6L0rgaiWIKCEKwqMVYDjNwCLcBGAsYHQ/s200/L%25C4%25B0NE%2BTV.png",
-			"type": "stream",
-			"url": "http://broadcasttr.com:1935/linetv/bant1/playlist.m3u8"
 		},
 		{
 			"name": "10 MEDYA HABER TV",
@@ -2492,6 +2480,12 @@
 			"logo": "https://1.bp.blogspot.com/-_UumD15unes/X58ojYpNbJI/AAAAAAAAPeU/d9fWiWVmVZc1JU6FafYwyKtadiwvqZEdACLcBGAsYHQ/s0/tokatwebtv.png",
 			"type": "stream",
 			"url": "http://212.156.98.150:1936/WebTV/Canli.Yayin/chunklist.m3u8"
+		},
+		{
+			"name": "BRUKSEL TURK TV",
+			"logo": "https://1.bp.blogspot.com/-sYChyuVHnaY/Xp7gPLZqiKI/AAAAAAAAMZM/kj45kk1MmZIac4EtHFpt0fFuL12U-KYkgCLcBGAsYHQ/s200/BRUKSELTURK.jpg",
+			"type": "stream",
+			"url": "http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8"
 		},
 		{
 			"name": "EURO GENC TV",
@@ -2866,7 +2860,7 @@
 			"url": "http://alpha.tv.online.tm/hls/ch004_720/index.m3u8"
 		},
 		{
-			"name": "NASA TV",
+			"name": "NASA TV-supersatforum.com",
 			"logo": null,
 			"type": "stream",
 			"url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8"
@@ -5644,10 +5638,274 @@
 			"url": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8"
 		},
 		{
+			"name": "FashionTV Slovakya",
+			"logo": null,
+			"type": "stream",
+			"url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
+		},
+		{
+			"name": "Jednotka",
+			"logo": null,
+			"type": "stream",
+			"url": "https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8"
+		},
+		{
+			"name": "Life.tv",
+			"logo": null,
+			"type": "stream",
+			"url": "http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8"
+		},
+		{
+			"name": "JOJ",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nn.geo.joj.sk/hls/joj-720.m3u8"
+		},
+		{
+			"name": "JOJ Family",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nn.geo.joj.sk/hls/family-360.m3u8"
+		},
+		{
 			"name": "Jolly HD",
 			"logo": "http://static.epg.best/al/Jolly.al.png",
 			"type": "stream",
 			"url": "http://5.135.92.133:52841/out/u/466_1.m3u8"
+		},
+		{
+			"name": "KOSICE DNES",
+			"logo": null,
+			"type": "stream",
+			"url": "http://lb.streaming.sk/tvnasa/stream/playlist.m3u8"
+		},
+		{
+			"name": "LocAll",
+			"logo": null,
+			"type": "stream",
+			"url": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8"
+		},
+		{
+			"name": "MMC",
+			"logo": null,
+			"type": "stream",
+			"url": "https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "Plus",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8"
+		},
+		{
+			"name": "Televizia OSEM",
+			"logo": null,
+			"type": "stream",
+			"url": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8"
+		},
+		{
+			"name": "TV Lux",
+			"logo": null,
+			"type": "stream",
+			"url": "http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8"
+		},
+		{
+			"name": "TV NOVE ZAMKY",
+			"logo": null,
+			"type": "stream",
+			"url": "http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8"
+		},
+		{
+			"name": "TV KOPER",
+			"logo": null,
+			"type": "stream",
+			"url": "https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "TV MARIBOR",
+			"logo": null,
+			"type": "stream",
+			"url": "https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "TV SLOVENIJA 1",
+			"logo": null,
+			"type": "stream",
+			"url": "https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "TV SLOVENIJA 2",
+			"logo": null,
+			"type": "stream",
+			"url": "https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "TV SLOVENIJA 3",
+			"logo": null,
+			"type": "stream",
+			"url": "https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR"
+		},
+		{
+			"name": "Wau TV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nn.geo.joj.sk/hls/wau-540.m3u8"
+		},
+		{
+			"name": "ABC News Digital 1",
+			"logo": null,
+			"type": "stream",
+			"url": "https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8"
+		},
+		{
+			"name": "ABC News Digital 10",
+			"logo": null,
+			"type": "stream",
+			"url": "https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8"
+		},
+		{
+			"name": "Akaku 53 (Hawaii)",
+			"logo": null,
+			"type": "stream",
+			"url": "https://akaku.vod.castus.tv/live/ch1.m3u8"
+		},
+		{
+			"name": "Akaku 54 (Hawaii)",
+			"logo": null,
+			"type": "stream",
+			"url": "https://akaku.vod.castus.tv/live/ch2.m3u8"
+		},
+		{
+			"name": "Akaku 55 (Hawaii)",
+			"logo": null,
+			"type": "stream",
+			"url": "https://akaku.vod.castus.tv/live/ch3.m3u8"
+		},
+		{
+			"name": "AKC TV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
+		},
+		{
+			"name": "Al Horreya TV",
+			"logo": null,
+			"type": "stream",
+			"url": "http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8"
+		},
+		{
+			"name": "Al Hurra",
+			"logo": null,
+			"type": "stream",
+			"url": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+		},
+		{
+			"name": "Aliento Vision",
+			"logo": null,
+			"type": "stream",
+			"url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8"
+		},
+		{
+			"name": "American Horrors",
+			"logo": null,
+			"type": "stream",
+			"url": "http://170.178.189.66:1935/live/Stream1/.m3u8"
+		},
+		{
+			"name": "AMG TV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+		},
+		{
+			"name": "Apple Sauce TV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8"
+		},
+		{
+			"name": "Atlanta Channel",
+			"logo": null,
+			"type": "stream",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
+		},
+		{
+			"name": "Beach TV (30A)",
+			"logo": null,
+			"type": "stream",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+		},
+		{
+			"name": "Beach TV (CSULB)",
+			"logo": null,
+			"type": "stream",
+			"url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8"
+		},
+		{
+			"name": "Beach TV (Panama City)",
+			"logo": null,
+			"type": "stream",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8"
+		},
+		{
+			"name": "Beach TV (Pawleys Island)",
+			"logo": null,
+			"type": "stream",
+			"url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+		},
+		{
+			"name": "Beauty IQ",
+			"logo": null,
+			"type": "stream",
+			"url": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
+		},
+		{
+			"name": "Better Health TV",
+			"logo": null,
+			"type": "stream",
+			"url": "http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8"
+		},
+		{
+			"name": "Better Life TV",
+			"logo": null,
+			"type": "stream",
+			"url": "http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8"
+		},
+		{
+			"name": "Better Nature TV",
+			"logo": null,
+			"type": "stream",
+			"url": "http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8"
+		},
+		{
+			"name": "Bible Explorations",
+			"logo": null,
+			"type": "stream",
+			"url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8"
+		},
+		{
+			"name": "Black Widow TV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8"
+		},
+		{
+			"name": "BlazeTV",
+			"logo": null,
+			"type": "stream",
+			"url": "https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8"
+		},
+		{
+			"name": "Bloomberg TV",
+			"logo": null,
+			"type": "stream",
+			"url": "http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8"
+		},
+		{
+			"name": "Bloomberg TV Europe",
+			"logo": null,
+			"type": "stream",
+			"url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
 		},
 		{
 			"name": "HD Media 3D",
