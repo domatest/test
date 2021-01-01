@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSAT DUYURU
-https://www.youtube.com/watch?v=Cw3_mucKU1I
 #EXTINF:0 type="stream" channelId="1056" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85c", TRT1 HD
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1055", TRT 1 YEDEK
@@ -401,8 +399,6 @@ http://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 http://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" tvg-country="TR", ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-hKJG4oBtrxI/X2kPKC-qPdI/AAAAAAAAO2k/UeF8UADnPKEFSww-ib2VRuwpuvknpqBUwCLcBGAsYHQ/s320/aras%2Btv.jpg", ARAS TV ERZURUM
-http://1.rtmp.org/tv217/yayin.stream/chunklist_w1620641153.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.alanyapostatv.com/wp-content/uploads/2019/03/ap_logo_trnsp_red.png", ALANYA POSTA TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-32SZvyFtR20/X32NpjIllcI/AAAAAAAAPLA/Zzz_oyCYNtIMcWSiF4sWI47XqVeACPRUwCLcBGAsYHQ/s0/alanya%2Batv.jpg", ALANYA ATV
@@ -1735,8 +1731,6 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV NOVE ZAMKY
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Turzovka
-rtmp://s1.media-planet.sk:80/live/turzovka
 #EXTINF:0 type="stream" channelId="-1", TV KOPER
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV MARIBOR
