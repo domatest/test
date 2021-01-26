@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSAT DUYURU
-https://www.youtube.com/watch?v=Cw3_mucKU1I
 #EXTINF:0 type="stream" channelId="1056" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85c", TRT1 HD
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1055", TRT 1 HD-2
@@ -819,7 +817,7 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://1.bp.blogspot.com/-qEeXejHDvJE/X7EDI-sCRSI/AAAAAAAAPuw/dC1oGM3kv5suU3mVOYQ0_xysY23a9YyQACLcBGAsYHQ/s320/TURKSOPORTS.jpg", Turkmen Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0 type="stream" channelId="721", NASA TV-supersatforum.com
+#EXTINF:0 type="stream" channelId="721", NASA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 type="stream" channelId="1267", ANIXE HD SERIE
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
@@ -1785,8 +1783,6 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV NOVE ZAMKY
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Turzovka
-rtmp://s1.media-planet.sk:80/live/turzovka
 #EXTINF:0 type="stream" channelId="-1", TV KOPER
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:0 type="stream" channelId="-1", TV MARIBOR
